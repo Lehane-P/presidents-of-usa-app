@@ -1,0 +1,53 @@
+{
+  "presidents": [
+    {
+      "id": 1,
+      "name": "Joe Biden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/220px-Joe_Biden_presidential_portrait.jpg",
+      "dateOfBirth": "20-11-1942",
+      "presidentNumber": 46
+    },
+    {
+      "name": "Donald Trump",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/220px-Donald_Trump_official_portrait.jpg",
+      "dateOfBirth": "14-06-1946",
+      "presidentNumber": "45",
+      "id": 2
+    },
+    {
+      "name": "Barrack Obama",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg",
+      "dateOfBirth": "04-08-1961",
+      "presidentNumber": "44",
+      "id": 3
+    },
+    {
+      "name": "George Bush",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/220px-George-W-Bush.jpeg",
+      "dateOfBirth": "06-07-1946",
+      "presidentNumber": "43",
+      "id": 4
+    },
+    {
+      "name": "Bill Clinton",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/220px-Bill_Clinton.jpg",
+      "dateOfBirth": "19-08-1946",
+      "presidentNumber": "42",
+      "id": 5
+    },
+    {
+      "name": "George H. W. Bush",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/220px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
+      "dateOfBirth": "12-06-1924",
+      "presidentNumber": "41",
+      "id": 6
+    },
+    {
+      "name": "Ronald Reagan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/220px-Official_Portrait_of_President_Reagan_1981.jpg",
+      "dateOfBirth": "06-02-1911",
+      "presidentNumber": "40",
+      "id": 7
+    }
+  ]
+}
